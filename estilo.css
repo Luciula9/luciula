@@ -1,0 +1,11 @@
+/*Centralizar o título*/
+h1{text-align: center;}
+/*Colocar uma caixa colorida ao redor do título*/
+h1{padding: 30px; background-color: rgb(194, 109, 109);}
+/*cor de fundo*/
+body{ background-color: rgb(235, 222, 108); }
+/*Caracterização do menu*/
+ul{ list-style-type: none; margin: 0px; padding: 25px 400px; background-color: #dbc757;}
+li{ float: left;}
+li a { color: black; display:block; text-align: center; padding: 14px 16px; text-decoration: none; }
+li a:hover { background-color: rgb(194, 109, 109); color: white; }
